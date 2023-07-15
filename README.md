@@ -12,7 +12,7 @@ N: Navigation
 U: Utility
 S: System
 
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/PetronusLogo.png" align="center" />
+<div align="center"><img src="/pic/PetronusLogo.png" align="center" />
 </div> 
 
 ---
@@ -31,50 +31,50 @@ Petronus is a spherical robot with a purpose of being a pet sitter. The aim of t
 ## 🥳 Features
 
 ### Product Overview 
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/SphericalRobot.jpeg" align="center" width = "350" />
+<div align="center"><img src="/pic/SphericalRobot.jpeg" align="center" width = "350" />
 </div> 
 
 <br>
 
 - Bluetooth: Linking to mobile devices
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Bluetooth.png" align="center" />
+<div align="center"><img src="/pic/Bluetooth.png" align="center" />
 </div>  
 
 <br>
 
 - Mini camera: Monitoring the real-time situation 
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Camera.png" align="center" />
+<div align="center"><img src="/pic/Camera.png" align="center" />
 </div> 
 
 <br>
 
 - Music Player: Playing music to the pets remotely through mobile devices
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Music.png" align="center" />
+<div align="center"><img src="/pic/Music.png" align="center" />
 </div> 
 
 <br>
 
 - LED Lights: Entertaining with pets
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/LED.png" align="center" />
+<div align="center"><img src="/pic/LED.png" align="center" />
 </div> 
 <br>
 
 Demonstration Video: [Video in Google Drive](https://drive.google.com/file/d/1X-75ReIW8xzi45FKERpuovpHpaWbvhPE/view?usp=sharing)
 <br>
 
-Control Diagram: [Control Diagram](https://github.com/HaleyKwok/Spherical_Robot/blob/main/ControlDiagramExplanation.pdf)
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/ControlDiagram.png" align="center"/>
+Control Diagram: [Control Diagram](/doc/ControlDiagramExplanation.pdf)
+<div align="center"><img src="/pic/ControlDiagram.png" align="center"/>
 </div> 
 <br>
 
-Code for reference: [Version 1](https://github.com/HaleyKwok/Spherical_Robot/blob/main/Motion_Control_V2.ino)
+Code for reference: [Version 1](/code/Motion_Control_V2.ino)
 <br>
 
 > A program that controls two DC motors and a strip of WS2812 LEDs using an external device via a software serial interface. It is waiting for serial input via pins 6 and 7, and it reacts to certain characters (A, B, C, D, E, F, G, a, b, c, d, e, f, g) to control the direction and speed of the two DC motors. The motors are connected to pins 3, 9, 10, and 11. Additionally, the program initializes the WS2812 LED strip using the FastLED library and sets the brightness of the LEDs. There is also a function to twinkle the LEDs at a certain interval and chance.
 
 ### What's New?
 
-Code for reference: [Version 2](https://github.com/HaleyKwok/Spherical_Robot/blob/main/LEDlightband.ino)
+Code for reference: [Version 2](/code/LEDlightband.ino)
 <br>
 
 > The software serial interface is used to communicate with an external device via the pins 6 and 7. The program waits for serial input and reacts to a series of characters (A, B, C, D, E, F, G, a, b, c, d, e, f, g) by controlling the direction and speed of two DC motors connected to the pins 3, 9, 10, and 11. The strip of WS2812 LED beads is connected to pin 5, and it is initialized with the FastLED library. The program sets the brightness of the LEDs, and it has a function to twinkle the LEDs at a certain interval and chance.
@@ -83,29 +83,29 @@ Code for reference: [Version 2](https://github.com/HaleyKwok/Spherical_Robot/blo
 ---
 
 ### 📐 Product Design
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/ProductDesign.png" align="center" width = "300" />
+<div align="center"><img src="/pic/ProductDesign.png" align="center" width = "300" />
 </div> 
 <br>
 
 #### Plastic Layers
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Layer.png" align="center" />
+<div align="center"><img src="/pic/Layer.png" align="center" />
 </div> 
 <br>
 
 #### Mechanical Components
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/MechanicalComponent.png" align="center" />
+<div align="center"><img src="/pic/MechanicalComponent.png" align="center" />
 </div> 
 <br>
 
 #### Electronic Components
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/ElectronicComponent.png" align="center" />
+<div align="center"><img src="/pic/ElectronicComponent.png" align="center" />
 </div> 
 <br>
 
 ---
 
 ## 🧾 Petronus Pet Care Ball Robot User Guide
-User Guide in PDF version: [User Guide](https://github.com/HaleyKwok/Spherical_Robot/blob/main/UserGuide.pdf)
+User Guide in PDF version: [User Guide](/doc/UserGuide.pdf)
 
 <details open>
 <summary>User Guide</summary>
@@ -176,7 +176,7 @@ User Guide in PDF version: [User Guide](https://github.com/HaleyKwok/Spherical_R
 ## 📋 Technical Report
 
 Business Proposal: 
-[Business Proposal](https://github.com/HaleyKwok/Spherical_Robot/blob/main/BusinessProposal.pdf)
+[Business Proposal](/doc/BusinessProposal.pdf)
 
 
 ---
@@ -186,7 +186,7 @@ Business Proposal:
 Booth Presentation: 
 [Booth Presentation](https://github.com/HaleyKwok/Spherical_Robot/blob/main/BoothPresentation.pdf)
 
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Poster.png" align="center" width = "350"/>
+<div align="center"><img src="/pic/Poster.png" align="center" width = "350"/>
 </div> 
 
 
@@ -222,5 +222,5 @@ We develop this repository for Assignment purposes, so it can only be used for p
 Copyright © [The Hong Kong Polytechnic University, Faculty of Engineering, Department of Industrial & Systems Engineering](https://www.polyu.edu.hk/ise/), [Haley Kwok](https://github.com/HaleyKwok), SALEH Alessandra Sylva, WONG Pak Ki, WONG Sze Nga, LUI Uen Yau, SO Hiu Lam, and SIN Tak Chi. All rights reserved.
 
 
-<img src = 'logo-polyu.png'>
-<img src = 'tagline1.png' width = 200>
+<img src = '/pic/logo-polyu.png'>
+<img src = '/pic/tagline1.png' width = 200>
