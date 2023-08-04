@@ -107,7 +107,7 @@ Code for reference: [Version 2](/code/LEDlightband.ino)
 ## 🧾 Petronus Pet Care Ball Robot User Guide
 User Guide in PDF version: [User Guide](/doc/UserGuide.pdf)
 
-<details open>
+<details close>
 <summary>User Guide</summary>
   
 - **The package should include:**
