@@ -176,7 +176,7 @@ User Guide in PDF version: [User Guide](/doc/UserGuide.pdf)
 ## 📋 Technical Report
 
 Business Proposal: 
-[Business Proposal](/doc/BusinessProposal.pdf)
+[Business Proposal](/doc/BusinessProposal_v2.pdf)
 
 
 ---
